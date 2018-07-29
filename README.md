@@ -18,3 +18,6 @@
 
 ## 查看配置
 配置都在docs文件夹里面, 你可以结合[官方文档](https://vuepress.vuejs.org/zh/)一起看，效果更好哦！
+
+## 预览地址
+[hello press](https://gdutwyg.github.io/vue-press-test/)
