@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/',
+  base: '/vue-press-test/',
   title: 'hello press',
   description: 'just playing around',
   themeConfig: {
